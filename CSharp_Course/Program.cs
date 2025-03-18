@@ -32,3 +32,18 @@ using CSharp_Course;
 
 //Structure obj = new Structure("Suraj", 25);
 //obj.Display();
+
+//CSharpArray.ArrayIntro();
+
+
+//ArrayMethods.ArraySort();
+//ArrayMethods.ArrayReverse();
+//ArrayMethods.ArrayFind();
+//ArrayMethods.ArrayCopy();
+//ArrayMethods.ArrayClone();
+//ListCSharp.ListMethods();
+
+//DictionaryCSharp.DictionaryMethods();
+
+
+ExceptionHandling.Exceptions();
